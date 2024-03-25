@@ -1,0 +1,44 @@
+{
+    "town1": {
+        "conflict": [
+            "lumber shortage",
+            "a shortage of lumber"
+        ],
+        "policies": [
+            "public health focus",
+            "improve public heath"
+        ],
+        "tax policies": [
+            "sales tax",
+            "a tax on goods sold"
+        ]
+    },
+    "town2": {
+        "conflict": [
+            "ore shortage",
+            "a shortage of ore"
+        ],
+        "policies": [
+            "public health focus",
+            "improve public heath"
+        ],
+        "tax policies": [
+            "land tax",
+            "a tax on land use"
+        ]
+    },
+    "town3": {
+        "conflict": [
+            "ore shortage",
+            "a shortage of ore"
+        ],
+        "policies": [
+            "housing initiative",
+            "build more housing or improve existing housing"
+        ],
+        "tax policies": [
+            "income tax",
+            "a tax on income"
+        ]
+    }
+}

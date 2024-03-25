@@ -1,0 +1,11 @@
+towns are stored in a single json "towns" file.
+aside from the data folder, all that is require for the program to generate a town is for there to be a town object in the towns file.
+the format for which is the following:
+{
+    "town1": {},
+    "town2": {},
+    "town3": {},
+    "town4": {}
+}
+
+you can replace "town1" "town2" ect with the town's actual name.

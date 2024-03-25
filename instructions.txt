@@ -1,0 +1,11 @@
+to start the program run main.py
+to add new modify the lists of possible policies, conflicts, and tax policies, edit the files in the data folder.
+to add a new town edit the towns file in the towns folder.
+to change how the program works just edit the python files in the logic folder and main if applicable.
+
+the program will error if it cannot find one or more of the following:
+the files in the data folder.
+the data folder itself.
+the towns folder/file.
+
+requires python 3.5 or later
